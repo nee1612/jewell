@@ -1,0 +1,95 @@
+.container {
+    max-width: 1240px;
+    margin-inline: auto;
+}
+.container1 {
+    max-width: 1240px;
+    margin-inline: auto;
+}
+
+.new_color {
+    font-size: 1rem;
+}
+
+.new {
+    padding-top: 20rem;
+}
+
+.bg_img1 {
+    background-image: url(./jwell_assets/asset\ 2.jpeg);
+    min-height:500px;
+    background-attachment: fixed;
+    background-size: 89%;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* max-width: 1040px; */
+}
+
+.bg_img2 {
+    background-image: url(./jwell_assets/asset\ 0.png);
+    min-height: 50rem;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+}
+
+.bg_img3 {
+    background-image: url(./jwell_assets/asset\ 6.jpeg);
+    min-height: 500px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+/* 
+.abs_img1 {
+    height: 6.67rem;
+} */
+
+.abs_img2 {
+    /* height: 22.3rem; */
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.abs_img2_new {
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.lin152 {
+    width: 21.5vw;
+}
+
+.lin152_new {
+    width: 30w;
+}
+
+.abs_imgjw {
+    width: 100%;
+    height: 20rem;
+    opacity: 0;
+}
+
+.abs_imgjw:hover {
+    background-color: rgba(0, 0, 0, 0.616);
+    opacity: 10;
+}
+
+.email {
+    text-decoration: none;
+}
+
+
+/* 
+.abs_img3 {
+    height: 6.67rem;
+} */

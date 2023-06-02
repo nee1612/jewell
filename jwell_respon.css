@@ -1,0 +1,57 @@
+@media screen and (max-width:1024px) {
+    .gifts {
+        max-width: 45vw;
+    }
+    .gifts2 {
+        /* width: 32rem; */
+        max-width: 45vw;
+    }
+    .leather {
+        max-width: 45vw;
+    }
+    .leather2 {
+        max-width: 45vw;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .bg_img2 {
+        background-size: 70vw;
+        min-height: 30rem;
+    }
+    .leather2 {
+        max-width: 55vw;
+    }
+    .leather {
+        max-width: 45vw;
+    }
+    .leat {
+        max-width: 1524px;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .bg_img1 {
+        /* width: 1rem; */
+        background-size: 500px;
+        width: 100%;
+    }
+    .bg_img2 {
+        /* width: 1rem; */
+        background-size: 250px;
+        min-height: 25rem;
+        /* width: 100%; */
+    }
+    .bg_img3 {
+        /* width: 1rem; */
+        /* background-size: 500px; */
+        /* width: 100%; */
+        min-height: 250px;
+    }
+}
+
+@media screen and (max-width:321px) {
+    .bg_img3 {
+        min-height: 250px;
+    }
+}
